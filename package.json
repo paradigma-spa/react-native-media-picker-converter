@@ -1,5 +1,5 @@
 {
-  "name": "@paradigma-spa/react-native-media-picker-converter",
+  "name": "react-native-media-picker-converter",
   "version": "0.2.0",
   "description": "A powerful React Native library for picking, converting, and compressing images",
   "source": "./src/index.tsx",
@@ -68,8 +68,7 @@
   },
   "homepage": "https://github.com/paradigma-spa/react-native-media-picker-converter#readme",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com",
-    "access": "restricted"
+    "registry": "https://registry.npmjs.org/"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^17.0.2",
