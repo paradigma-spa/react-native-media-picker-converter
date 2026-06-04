@@ -1,5 +1,5 @@
 {
-  "name": "react-native-media-picker-converter",
+  "name": "@paradigma-spa/react-native-media-picker-converter",
   "version": "0.2.0",
   "description": "A powerful React Native library for picking, converting, and compressing images",
   "source": "./src/index.tsx",
@@ -59,16 +59,17 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Axster/react-native-media-picker-converter.git"
+    "url": "git+https://github.com/paradigma-spa/react-native-media-picker-converter.git"
   },
   "author": "Axster <andreacauchi@hotmail.it> (https://github.com/Axster)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Axster/react-native-media-picker-converter/issues"
+    "url": "https://github.com/paradigma-spa/react-native-media-picker-converter/issues"
   },
-  "homepage": "https://github.com/Axster/react-native-media-picker-converter#readme",
+  "homepage": "https://github.com/paradigma-spa/react-native-media-picker-converter#readme",
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://npm.pkg.github.com",
+    "access": "restricted"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^17.0.2",
